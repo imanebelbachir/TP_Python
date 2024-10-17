@@ -1,0 +1,10 @@
+2024-10-17 09:46:16,213 - INFO - Le mot 'Python' apparaît 6 fois dans le fichier 'python.txt'.
+2024-10-17 10:14:13,203 - INFO - Appel de la fonction fizz_buzz avec n=4
+2024-10-17 10:19:33,305 - INFO - Appel de la fonction chaine avec n=0
+2024-10-17 10:19:39,878 - INFO - Appel de la fonction chaine avec n=4
+2024-10-17 10:19:59,742 - INFO - Appel de la fonction chaine avec n=8
+2024-10-17 10:20:22,230 - INFO - Appel de la fonction chaine avec n=4
+2024-10-17 10:21:05,452 - INFO - Résultat pour n=3: 4
+2024-10-17 10:21:05,452 - INFO - Appel de la fonction chaine avec n=4
+2024-10-17 10:32:58,816 - ERROR - Erreur : n doit être un entier positif, reçu : -4
+2024-10-17 10:32:58,819 - ERROR - Erreur lors de l'entrée utilisateur : n doit être un entier positif
